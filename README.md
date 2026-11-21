@@ -1,6 +1,6 @@
 # Fiction Writing
 
-An all-in-one fiction-writing studio for Obsidian — the English edition of the Chinese novel-writing plugin by VRPHU.
+An all-in-one fiction-writing studio for Obsidia
 
 **Version 1.0.0**
 
