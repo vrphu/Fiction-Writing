@@ -1,0 +1,9 @@
+{
+  "id": "fiction-writing",
+  "name": "Fiction Writing",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Novel-writing studio for Obsidian: body typography (line height / letter spacing / first-line indent / paragraph gap / font size) unified across editing, reading and focus mode; expanded analytics with dual-axis word & active-time charts, time distribution, consistency, efficiency and goal completion; pure-night focus wallpapers with high-contrast body text and a six-item live HUD. Includes lore highlighting, margin annotations, word milestones, Top-10 lore usage and a 365-day heatmap. Local-first.",
+  "author": "VRPHU",
+  "isDesktopOnly": false
+}
